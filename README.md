@@ -48,7 +48,7 @@
 
 ### 🧠 About Me
 
-- 🎯 Final Year Developer from India  
+- 🎯 2nd Year Developer from India  
 - 🎨 UI-focused, Pixel-perfect lover  
 - 🚀 Always building something cool  
 - 📚 Constantly learning, adapting, and shipping
